@@ -5,12 +5,12 @@ Let's Give A Shoutout To The Course Instructor <a href="https://simi.ir/k_member
 
 ## Setup
 ```
-* Open Up Microsoft Visual Studio (Use The AlirezaAbedini.sln File)
-* Build And Start The Program
+$ Open Up Microsoft Visual Studio (Use The AlirezaAbedini.sln File)
+$ Build And Start The Program
 ```
 OR You Can Use The dotnet Command-Line Tool ( Download Here => <a href="https://dotnet.microsoft.com/">https://dotnet.microsoft.com/</a> )
 ```
-* cd <Project Directory>
-* dotnet build
-* dotnet run OR you can use the assembly(AlirezaAbedini.exe) located in the AlirezaAbedini\bin\Debug
+$ cd <Project Directory>
+$ dotnet build
+$ dotnet run OR you can use the assembly(AlirezaAbedini.exe) located in the AlirezaAbedini\bin\Debug
 ```
