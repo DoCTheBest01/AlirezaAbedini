@@ -12,5 +12,5 @@ OR You Can Use The dotnet Command-Line Tool ( Download Here => <a href="https://
 ```
 * cd <Project Directory>
 * dotnet build
-* dotnet run OR you can  use the assembly(AlirezaAbedini.exe) located in the AlirezaAbedini/bin/debug
+* dotnet run OR you can use the assembly(AlirezaAbedini.exe) located in the AlirezaAbedini\bin\Debug
 ```
